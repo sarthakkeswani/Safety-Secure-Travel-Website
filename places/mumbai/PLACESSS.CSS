@@ -1,0 +1,113 @@
+h1, h2, h3, h5{
+    text-align: center;
+}
+
+
+#first{
+    background-color: #DFF6FF;
+    padding: 5% 7%;
+}
+
+#second {
+    background-color: #5D8BF4;
+    padding: 5% 7%;
+}
+#third {
+    background-color: #051367;
+    padding: 1%;
+}
+
+#fourth{
+    background-color: white;
+    padding: 5% 7%;
+}
+
+#fifth {
+    background-color: #DFF6FF;
+    padding: 5% 7%;
+}
+
+.ok {
+    background-color: #5D8BF4;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.navbar-brand {
+    margin-right: 60%;
+}
+
+.wtbox {
+    background-color: white;
+    text-align: center;
+    border-radius: 30%;
+}
+.place {
+    position: absolute;
+    width: 100%;
+}
+.card-text {
+    margin-top: 10%;
+}
+
+.ct {
+    font-size: large;
+}
+
+.pc {
+    width: 56%;
+}
+
+.lb {
+    background-color: #DFF6FF;
+    margin: 2%;
+}
+.card-img-top{
+    width: 100%;
+    text-align: center;
+    padding-top: 10%;
+    border-radius: 5%;
+}
+.card-text{
+    text-align: center;
+    font-size: 20px;
+}
+
+.hsptl{
+    width: 50%;
+    text-align: center;
+}
+
+.slogo {
+    width: 13%;
+    text-align: center;
+    margin: auto;
+}
+.mg{
+    margin-top: 3%;
+    text-align: center;
+}
+
+#para2{
+    margin-top: 6%;
+}
+
+#para3{
+    margin-top: 6%;
+}
+
+.rd {
+    border-radius: 4%;
+}
+
+#sixth {
+    background-color: #5D8BF4;
+    padding: 5% 7%;
+}
+.amb {
+    width: 12%;
+}
+
+.left {
+    text-align: left;
+}

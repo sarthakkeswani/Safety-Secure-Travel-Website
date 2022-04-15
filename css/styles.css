@@ -1,0 +1,71 @@
+h1, h2, h3, h5{
+    text-align: center;
+}
+
+
+#first{
+    background-color: #DFF6FF;
+    padding: 5% 7%;
+}
+
+#second {
+    background-color: #5D8BF4;
+    padding: 5% 7%;
+}
+#third {
+    background-color: #051367;
+    padding: 1%;
+}
+
+.ok {
+    background-color: #5D8BF4;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.navbar-brand {
+    margin-right: 65%;
+}
+
+.wtbox {
+    background-color: white;
+    padding: 3%;
+
+
+}
+.city {
+    width: 65px;
+}
+.col{
+    text-align: center;
+    
+}
+.mg {
+    margin: auto;
+}
+
+.left {
+    text-align: left;
+}
+
+.lightb{
+    background-color: #DFF6FF;
+    margin: 1%;
+}
+
+h5 {
+    margin-top: 2%;
+}
+
+.mq2 {
+    background-color: aquamarine;
+    color: red;
+}
+
+.klogo {
+    width: 6%;
+}
+
+.bld {
+    font-weight: 900;
+}

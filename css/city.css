@@ -1,0 +1,73 @@
+h1, h2, h3, h5{
+    text-align: center;
+}
+
+
+#first{
+    background-color: #DFF6FF;
+    padding: 5% 7%;
+}
+
+#second {
+    background-color: #5D8BF4;
+    padding: 5% 7%;
+}
+#third {
+    background-color: #051367;
+    padding: 1%;
+}
+
+.ok {
+    background-color: #5D8BF4;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.navbar-brand {
+    margin-right: 65%;
+}
+
+.wtbox {
+    background-color: white;
+    padding: 6%;
+}
+.place {
+    position: absolute;
+    width: 100%;
+}
+.card-text {
+    margin-top: 10%;
+}
+
+.ct {
+    font-size: large;
+}
+
+.lightb{
+    background-color: #DFF6FF;
+    margin: 1%;
+}
+
+h5 {
+    margin-top: 2%;
+}
+.left {
+    text-align: left;
+}
+
+#zero {
+    background-color: white;
+    padding: 5% 7%;
+}
+
+#sndlast {
+    background-color: #DFF6FF;
+}
+
+.klogo {
+    width: 6%;
+}
+
+.bld {
+    font-weight: 900;
+}
